@@ -1,4 +1,4 @@
-# 📓 Jupyter Notebook Repository
+# 📓 Algorithm Visualizations 
 
 A collection of interactive Jupyter notebooks for data analysis, machine learning experiments, and computational research. This repository serves as a digital lab notebook for exploring, analyzing, and visualizing data through executable code, rich text, and visualizations.
 

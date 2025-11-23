@@ -6,9 +6,9 @@ A collection of interactive Jupyter notebooks for data analysis, machine learnin
 
 This repository contains Jupyter Notebooks (.ipynb files) that demonstrate:
 
-· 📊 Data Analysis & Visualization
-· 🤖 Machine Learning Models
-· 📈 Statistical Analysis
-· 🔬 Research Experiments
-· 💻 Python Programming Examples
-· 🎓 Educational Tutorials
+##### · 📊 Data Analysis & Visualization
+##### · 🤖 Machine Learning Models
+##### · 📈 Statistical Analysis
+##### · 🔬 Research Experiments
+##### · 💻 Python Programming Examples
+##### · 🎓 Educational Tutorials

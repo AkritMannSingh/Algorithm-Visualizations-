@@ -4,7 +4,7 @@ A collection of interactive Jupyter notebooks for data analysis, machine learnin
 
 ## 🎯 Repository Overview
 
-This repository contains Jupyter Notebooks (.ipynb files) that demonstrate:
+This Algorithm Visualizations Repository demonstrate:
 
 ##### · 📊 Data Analysis & Visualization
 ##### · 🤖 Machine Learning Models
